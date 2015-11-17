@@ -1,8 +1,1 @@
 # example
-48ebc9eb384bcd29e910424130a7c239
-HELLO.
-  
-WORLD.
-
-FANCY
-1234
